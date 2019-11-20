@@ -1,6 +1,6 @@
 
 ---
-title: Project Title
+Title: Project Title
 ---
 #Course Projects
 
