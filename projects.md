@@ -2,7 +2,10 @@
 ---
 Title: Project Title
 ---
-#Course Projects
+
+
+
+# Course Projects
 
 ### Link
 [Data Science Projects](projects)
